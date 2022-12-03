@@ -6,14 +6,7 @@
 
 ## The website also helps the people who aims to do good in their lives by enrolling as volunteers in the events.
 
-## Our Team:
 
-- Manar Olimat
-- Nourman Alzawahreh 
-- Mohammed Alblewi
-- Laith Samamah
-- Ahmad Aalawneh
-- Ahmad Zahran
 
 ## Mockup and Wireframe [link](https://github.com/kahatayn/kahatayn/files/9855130/Untitled_compressed.pdf)
  
